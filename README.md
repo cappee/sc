@@ -8,3 +8,10 @@ This repo collects my _personal_ solutions of the weekly exercises assigned by t
 
 ## Esercitazioni
 
+### [T01](T01) (01/03/2024)
+- Palestra esercizi C
+- Esercizi con GDB e Valgrind
+
+### [T02](T02) (08/03/2024)
+- Traduzione C->IA32: funzioni che calcolano espressioni intere, accesso ai parametri passati
+- Palestra esercizi C
