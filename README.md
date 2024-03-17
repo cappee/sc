@@ -15,3 +15,9 @@ This repo collects my _personal_ solutions of the weekly exercises assigned by t
 ### [T02](T02) (08/03/2024)
 - Traduzione C->IA32: funzioni che calcolano espressioni intere, accesso ai parametri passati
 - Palestra esercizi C
+- Esercizi con GDB e Valgrind
+
+### [T03](T03) (15/03/2024)
+- Traduzione C->IA32: selezione, iterazione, puntatori
+- Palestra esercizi C
+- Esercizio con GDB
